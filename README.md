@@ -4,4 +4,4 @@ Your assignment is in `eds-222-hw2.qmd`. Please complete the questions and submi
 
 ## Due date
 
-Friday October ???, 2024 5pm
+Friday October 18, 2024 5pm
